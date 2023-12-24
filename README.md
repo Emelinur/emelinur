@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emelinur</h1>
-<h2 align="center">I'm Frontend Developer</h2>
+<h2 align="center">Frontend Developer</h2>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/emelinuryzgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emelinuryzgc" height="30" width="40" /></a>
